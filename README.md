@@ -1,2 +1,2 @@
 # fantastic-octo-lamp
-just playing with discussions
+just playing with [discussions](/discussions)...
